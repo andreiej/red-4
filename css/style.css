@@ -1,0 +1,105 @@
+*{
+	/*padding-left: 200px*/
+}
+ul {
+  list-style: none; /*убираем маркеры списка*/
+  margin: 0; /*убираем верхнее и нижнее поле, равное 1em*/
+  padding-left: 0; /*убираем левый отступ, равный 40px*/
+}
+a {
+	text-decoration: none; /*убираем подчеркивание текста ссылок*/
+	font-size: 20px;
+	font-family:  arial;
+}
+.er{
+	position: sticky;
+	float: top;
+	top: 0;
+}
+li :hover {
+	/*opacity: 0,6;*/
+	color:red;
+}
+body{
+	background-image: url(../img/23.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+li{
+	display: inline;
+	margin-right: 7em;
+}
+.blabla{
+	background: #9f0013;
+	padding-left: 275px;
+	padding-top: 30px;
+	padding-bottom: 20px;
+	margin-bottom: 180px;
+
+
+	/*display: inline-block;
+	list-style-type: none;*/
+}
+.evrika{
+	padding-left: 275px;
+	padding-top: 30px;
+	margin-bottom: 180px;
+	/*font-size: 30px;*/
+
+}	
+/*.ker{
+	 float: left;
+}*/
+.po{
+	word-spacing: 50px;
+}
+.uiop{
+	font-size: 70px;
+	padding-left: 200px;
+	font-family:  arial;
+	color:red;
+}
+a{
+	 text-decoration: none;
+	 color: black;
+}
+button{
+	border: 0;
+	/*border-color: #9f0013;*/
+}
+/*button :hover {
+	background-color: black; 
+}*/
+
+
+.profeshn{
+	font-size: 70px;
+	padding-left: 200px;
+	font-family:  arial;
+	padding-right: 1200px;
+	word-spacing: 7px;
+}
+.trek{
+	padding-left: 200px;
+	font-size: 30px;
+	padding-right: 250px;
+	/*word-spacing: 10px;*/
+	font-family:  arial;
+
+}
+.iol{
+	margin-left: 200px;
+	padding: 20px;
+	font-size: 20px;
+	color: white;
+	background-color: red; 
+	border-radius: 10px;}
+
+ 
+.this{
+	padding-left: 200px;
+	font-size: 20px;
+	font-family:  arial;
+	color: gray;
+}
